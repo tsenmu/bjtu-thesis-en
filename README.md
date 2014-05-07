@@ -1,4 +1,4 @@
-bjtuThesis
-==========
+# bjtu-thesis-en
 
-北京交通大学毕设LaTeX模板
+## Warning
+**This is project under active contribution, fork at will, but beware you may suffer from inconsistency.**
