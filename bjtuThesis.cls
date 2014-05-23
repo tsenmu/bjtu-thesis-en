@@ -35,7 +35,7 @@
 \geometry{top=2.5cm,bottom=2.0cm,left=2.8cm,right=2.0cm}
 
 % 第一层次（章）题序和标题用小二号黑体字，题序和标题之间空两个字，不加标点，下同；
-\CTEXsetup[format={\heiti\zihao{-2}\bfseries\centering},nameformat={\bfseries},titleformat={\bfseries},aftername={\qquad}]{chapter}
+\CTEXsetup[name={Chapter~,},number={\arabic{chapter}},format={\heiti\zihao{-2}\bfseries\centering},nameformat={\bfseries},titleformat={\bfseries},aftername={\qquad}]{chapter}
 \CTEXsetup[beforeskip={-20pt},afterskip={20pt plus 2pt minus 2pt}]{chapter}
 % 第二层次（节）题序和标题用小三号黑体字；
 \CTEXsetup[format={\heiti\zihao{-3}\bfseries\raggedright},aftername={\qquad}]{section}
